@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 
 <html>
@@ -11,11 +11,15 @@
 
  <body
       <header class="cabesalho">
-           <span class="cabesalho__menu-haburguer"></span>
-           <img src="img/Logo.svg" alt="Logo da Alurabook">
-           <a href="#">< img src="img/favoritos.svg"></a>
-           <a href="#">< img src="img/compras.svg"></a>
-           <a href="#"><img src="img/usuarios.svg"></a>
+         <div class="container">
+              <span class="cabesalho__menu-haburguer"></span>
+              <img src="img/Logo.svg" alt="Logo da Alurabook">
+        </div>
+        <div class="container">
+           <a href="#">< img src="img/favoritos.svg" alt="Meus favoritos"></a>
+           <a href="#">< img src="img/compras.svg" alt="carrinhos decompras"></a>
+           <a href="#"><img src="img/usuarios.svg"Meu perfil></a>
+        </div>
     </header>
     </body>
 
