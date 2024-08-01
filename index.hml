@@ -3,7 +3,7 @@
 
 <html>
       <meta chaset="UTL-8
-      <meta name=
+      <meta name="viewport"contente="width="device-width, initial-scale=1.0">
       <Title>aluraBooks</tilhe>
       <link rel=teyleheet=href="reet.css>
       <link rel="stylesheet" href="styles.css"> 
@@ -11,7 +11,11 @@
 
  <body
       <header class="cabesalho">
-           <span class="
+           <span class="cabesalho__menu-haburguer"></span>
+           <img src="img/Logo.svg" alt="Logo da Alurabook">
+           <a href="#">< img src="img/favoritos.svg"></a>
+           <a href="#">< img src="img/compras.svg"></a>
+           <a href="#"><img src="img/usuarios.svg"></a>
     </header>
     </body>
 
